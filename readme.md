@@ -206,3 +206,4 @@ cast send --rpc-url $PROVIDER_URI_GOERLI --private-key $PRIVATE_KEY_GOERLI --val
 LINK Tokenを保有していれば NFTがミントできる
 
 [NFTをミントした時のトランザクション](https://goerli.etherscan.io/tx/0x34eae8a9727582d34abcb87e216724ecc9168fc54c24f24fd27b0f6dfd70cd52)
+
